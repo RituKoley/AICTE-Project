@@ -1,5 +1,5 @@
 # AICTE-Project
-# Image-Based Steganography with Password Protection
+# SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
 
 This project demonstrates a simple yet effective **image-based steganography** technique to securely hide and retrieve messages within an image. It uses pixel manipulation to embed a secret message and allows decryption only with the correct password.
 
